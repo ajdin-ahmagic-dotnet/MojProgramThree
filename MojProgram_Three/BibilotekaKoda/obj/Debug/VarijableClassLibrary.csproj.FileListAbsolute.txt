@@ -1,0 +1,15 @@
+C:\Users\Wylde\documents\visual studio 2013\Projects\MojProgram_Three\VarijableClassLibrary\bin\Debug\VarijableClassLibrary.dll
+C:\Users\Wylde\documents\visual studio 2013\Projects\MojProgram_Three\VarijableClassLibrary\bin\Debug\VarijableClassLibrary.pdb
+C:\Users\Wylde\documents\visual studio 2013\Projects\MojProgram_Three\VarijableClassLibrary\obj\Debug\VarijableClassLibrary.dll
+C:\Users\Wylde\documents\visual studio 2013\Projects\MojProgram_Three\VarijableClassLibrary\obj\Debug\VarijableClassLibrary.pdb
+C:\Users\Wylde\Documents\Visual Studio 2013\Projects\MojProgram_Three\VarijableClassLibrary\obj\Debug\VarijableClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Wylde\Desktop\MojProgram_Three\VarijableClassLibrary\bin\Debug\VarijableClassLibrary.dll
+C:\Users\Wylde\Desktop\MojProgram_Three\VarijableClassLibrary\bin\Debug\VarijableClassLibrary.pdb
+C:\Users\Wylde\Desktop\MojProgram_Three\VarijableClassLibrary\obj\Debug\VarijableClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Wylde\Desktop\MojProgram_Three\VarijableClassLibrary\obj\Debug\VarijableClassLibrary.dll
+C:\Users\Wylde\Desktop\MojProgram_Three\VarijableClassLibrary\obj\Debug\VarijableClassLibrary.pdb
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\VarijableClassLibrary\obj\Debug\VarijableClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\VarijableClassLibrary\obj\Debug\VarijableClassLibrary.dll
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\VarijableClassLibrary\bin\Debug\VarijableClassLibrary.dll
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\VarijableClassLibrary\bin\Debug\VarijableClassLibrary.pdb
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\VarijableClassLibrary\obj\Debug\VarijableClassLibrary.pdb

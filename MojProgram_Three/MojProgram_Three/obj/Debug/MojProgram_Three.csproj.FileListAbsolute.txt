@@ -1,0 +1,40 @@
+c:\users\wylde\documents\visual studio 2013\Projects\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.exe.config
+c:\users\wylde\documents\visual studio 2013\Projects\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.exe
+c:\users\wylde\documents\visual studio 2013\Projects\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.pdb
+c:\users\wylde\documents\visual studio 2013\Projects\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.csprojResolveAssemblyReference.cache
+c:\users\wylde\documents\visual studio 2013\Projects\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.exe
+c:\users\wylde\documents\visual studio 2013\Projects\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.pdb
+H:\Users\Wylde\Documents\Visual Studio 2013\Projects\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.exe.config
+H:\Users\Wylde\Documents\Visual Studio 2013\Projects\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.exe
+H:\Users\Wylde\Documents\Visual Studio 2013\Projects\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.pdb
+C:\Users\Wylde\documents\visual studio 2013\Projects\MojProgram_Three\MojProgram_Three\bin\Debug\VarijableClassLibrary.dll
+C:\Users\Wylde\documents\visual studio 2013\Projects\MojProgram_Three\MojProgram_Three\bin\Debug\VarijableClassLibrary.pdb
+C:\Users\Wylde\Desktop\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.exe.config
+C:\Users\Wylde\Desktop\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.exe
+C:\Users\Wylde\Desktop\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.pdb
+C:\Users\Wylde\Desktop\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.exe
+C:\Users\Wylde\Desktop\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.pdb
+C:\Users\Wylde\Desktop\MojProgram_Three\MojProgram_Three\bin\Debug\VarijableClassLibrary.dll
+C:\Users\Wylde\Desktop\MojProgram_Three\MojProgram_Three\bin\Debug\VarijableClassLibrary.pdb
+C:\Users\Wylde\Desktop\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.csprojResolveAssemblyReference.cache
+C:\Users\Wylde\Desktop\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.exe.config
+C:\Users\Wylde\Desktop\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.exe
+C:\Users\Wylde\Desktop\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.pdb
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.exe.config
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.exe
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.pdb
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.csprojResolveAssemblyReference.cache
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.exe
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.pdb
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\bin\Debug\BibliotekaKoda.dll
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\bin\Debug\BibliotekaKoda.pdb
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.exe.config
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.exe
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\bin\Debug\MojProgram_Three.pdb
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\bin\Debug\BibliotekaKoda.dll
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\bin\Debug\BibliotekaKoda.pdb
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.csproj.AssemblyReference.cache
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.csproj.CoreCompileInputs.cache
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgr.E4128E7F.Up2Date
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.exe
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\MojProgram_Three\obj\Debug\MojProgram_Three.pdb

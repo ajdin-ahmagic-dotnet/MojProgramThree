@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\18. MOJI PROJEKTI VS 2013\\WIN10 Program_Three\\MojProgram_Three\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C48743D-041C-4555-90EC-FE87C2243D75}|MojProgram_Three\\MojProgram_Three.csproj|c:\\source\\18. moji projekti vs 2013\\win10 program_three\\mojprogram_three\\mojprogram_three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C48743D-041C-4555-90EC-FE87C2243D75}|MojProgram_Three\\MojProgram_Three.csproj|solutionrelative:mojprogram_three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C48743D-041C-4555-90EC-FE87C2243D75}|MojProgram_Three\\MojProgram_Three.csproj|C:\\Source\\18. MOJI PROJEKTI VS 2013\\WIN10 Program_Three\\MojProgram_Three\\mojprogram_three\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C48743D-041C-4555-90EC-FE87C2243D75}|MojProgram_Three\\MojProgram_Three.csproj|solutionrelative:mojprogram_three\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8294f124-07d1-574c-bf4d-1c4a34e31c86}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Source\\18. MOJI PROJEKTI VS 2013\\WIN10 Program_Three\\MojProgram_Three\\MojProgram_Three\\App.config",
+              "RelativeDocumentMoniker": "MojProgram_Three\\App.config",
+              "ToolTip": "C:\\Source\\18. MOJI PROJEKTI VS 2013\\WIN10 Program_Three\\MojProgram_Three\\MojProgram_Three\\App.config",
+              "RelativeToolTip": "MojProgram_Three\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-25T08:17:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Source\\18. MOJI PROJEKTI VS 2013\\WIN10 Program_Three\\MojProgram_Three\\MojProgram_Three\\Program.cs",
+              "RelativeDocumentMoniker": "MojProgram_Three\\Program.cs",
+              "ToolTip": "C:\\Source\\18. MOJI PROJEKTI VS 2013\\WIN10 Program_Three\\MojProgram_Three\\MojProgram_Three\\Program.cs",
+              "RelativeToolTip": "MojProgram_Three\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAA4wGUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:12:35.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

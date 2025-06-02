@@ -1,0 +1,10 @@
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\BibilotekaKoda\bin\Debug\BibliotekaKoda.dll
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\BibilotekaKoda\bin\Debug\BibliotekaKoda.pdb
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\BibilotekaKoda\obj\Debug\BibliotekaKoda.dll
+C:\Users\Ajdin\Documents\Visual Studio 2013\Projects\WIN10 Program_Three\MojProgram_Three\BibilotekaKoda\obj\Debug\BibliotekaKoda.pdb
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\BibilotekaKoda\bin\Debug\BibliotekaKoda.dll
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\BibilotekaKoda\bin\Debug\BibliotekaKoda.pdb
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\BibilotekaKoda\obj\Debug\BibilotekaKoda.csproj.AssemblyReference.cache
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\BibilotekaKoda\obj\Debug\BibilotekaKoda.csproj.CoreCompileInputs.cache
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\BibilotekaKoda\obj\Debug\BibliotekaKoda.dll
+C:\Source\18. MOJI PROJEKTI VS 2013\WIN10 Program_Three\MojProgram_Three\BibilotekaKoda\obj\Debug\BibliotekaKoda.pdb
